@@ -226,27 +226,6 @@ header .fa-bars{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*media queries*/
 @media (max-width:991px) {
     html{
@@ -561,6 +540,7 @@ header .fa-bars{
         font-size: 3rem;
     }
 }
+
 
 
 
