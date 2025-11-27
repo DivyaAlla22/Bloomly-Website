@@ -6,10 +6,9 @@
 
 This project is a beautifully designed, responsive front-end website for a modern, digital flower shop. Crafted with **HTML5** and pure **CSS3**, Bloomly aims to provide an elegant and intuitive user experience across all devices. It’s more than just a template; it’s a vibrant showcase of fresh floral products and seamless navigation.
 
-### **🚀 Live Demo**
+### 🚀 Live Demo
 
-Experience Bloomly live\!
-➡️ **[View Live Demo Here]([https://divyaalla22.github.io/Bloomly-Website/])**
+Experience Bloomly live! ➡️ **[View Live Demo Here](https://divyaalla22.github.io/Bloomly-Website/)**
 
 -----
 
