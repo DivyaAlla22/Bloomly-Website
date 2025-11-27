@@ -41,9 +41,6 @@ Bloomly-Website/
 ├── style.css           # All custom CSS and responsiveness rules
 ├── README.md           # You are here!
 └── images/             # All project assets (products, icons, backgrounds)
-    ├── img-1.jpg
-    ├── home-bg.jpg
-    └── ...
 ```
 
 -----
