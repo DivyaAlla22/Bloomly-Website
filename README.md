@@ -9,7 +9,7 @@ This project is a beautifully designed, responsive front-end website for a moder
 ### **🚀 Live Demo**
 
 Experience Bloomly live\!
-➡️ **[View Live Demo Here]([https://divyaalla22.github.io/Bloomly-Website/])** 
+➡️ **[View Live Demo Here]([https://divyaalla22.github.io/Bloomly-Website/])**
 
 -----
 
